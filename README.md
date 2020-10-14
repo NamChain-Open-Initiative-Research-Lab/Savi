@@ -7,5 +7,5 @@
 ## Savi - நம்Chain Wallet
 
 <p align="center">
-<img src="https://1.bp.blogspot.com/-NId68RUSm_4/X4XlXEmAZqI/AAAAAAAAAlM/rNpT1JiLcCQ0IEWmxYm-42t8-4-gpRoiQCLcBGAsYHQ/s489/NamChain_NCT_Savi.jpeg" width="200" align="center">
+<img src="https://1.bp.blogspot.com/-9RAU0Jl4nP0/X4XlXVouizI/AAAAAAAAAlU/SyXFEE-PAvERpbLsThlp7oZ5EaBsJ2ZwgCLcBGAsYHQ/s799/NamChain_NCT_Savi_L.jpeg" width="80" align="center">
 </p>  
